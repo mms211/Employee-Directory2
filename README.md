@@ -4,7 +4,7 @@
 
 This is a React app, that intakes information from an api and creates a dynamic table from it.
 
-## Screenshotnpm start
+## Screenshot
 
 ![Getting Started](./pic1.png)
     
